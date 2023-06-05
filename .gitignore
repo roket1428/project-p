@@ -1,0 +1,5 @@
+lightning_logs
+.ipynb_checkpoints
+venv
+*log*
+
